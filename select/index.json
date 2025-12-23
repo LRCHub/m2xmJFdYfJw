@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ノーチラス",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-23T11:19:23.488325Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ノーチラス",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_ノーチラス_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ノーチラス",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_ノーチラス_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ノーチラス (鹦鹉螺)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_ノーチラス_(鹦鹉螺)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ノーチラス",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_ノーチラス_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ノーチラス - Nautilus",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_ノーチラス_-_Nautilus_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ノーチラス (Nautilus)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/06_ノーチラス_(Nautilus)_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノーチラス",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_ノーチラス_ヨルシカ.txt"
+    }
+  ]
+}
